@@ -16,7 +16,7 @@ This project is a Weather Forecast application built using React with Vite.js fo
 - **React:** JavaScript library for building user interfaces.
 - **Vite.js:** Build tool for fast development and optimized production builds.
 - **Tailwind CSS:** Utility-first CSS framework for custom styling.
-- **OpenWeather API:** Provides weather data for the application.
+- **OpenWeatherMap API:** Provides weather data for the application.
 
 ## Project Structure
 
