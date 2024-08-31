@@ -28,7 +28,7 @@ This project is a Weather Forecast application built using React with Vite.js fo
 
 1. **Clone the repository:**
 
-   git clone https://github.com/SaiHarshitha-2004/weather-forecast-react.git
+   git clone https://github.com/SaiHarshitha-2004/weather-forecast.git
 
    
 Navigate to the project directory:
