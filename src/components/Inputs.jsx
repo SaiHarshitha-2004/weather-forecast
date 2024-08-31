@@ -12,6 +12,7 @@ const Inputs = ({ setQuery }) => {
       setQuery({ q: input });
       setInput("");  
     }
+    
   };
 
   const handleKeyDown = (e) => {
