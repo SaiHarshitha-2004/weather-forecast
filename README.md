@@ -52,3 +52,8 @@ The application uses the OpenWeather API to fetch weather data. Ensure you have 
 
 Contributing
 Feel free to submit issues, feature requests, or pull requests to improve the project.
+
+![Screenshot (37)](https://github.com/user-attachments/assets/e744c08e-9aed-4fa0-83cb-5af3f74381ca)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/a33d05d5-839d-467e-8c26-14869ce2a14a)
+
