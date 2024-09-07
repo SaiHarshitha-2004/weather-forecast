@@ -6,7 +6,7 @@ const days = ['Mon' , 'Tue' , 'Wed' , 'Thu' , 'Fri' , 'Sat' , 'Sun']
 
 
 const DailyForecast = ({title , items}) => {
-    const dayInAWeek = new Date().getDate() ;
+    const dayInAWeek = new Date().getDate()  - 1;
     const forecastDays = days.slice(dayInAWeek , days.length).concat(days.slice(0 , dayInAWeek)) ;
 
   return (
